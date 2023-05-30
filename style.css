@@ -1,0 +1,28 @@
+body{#
+    background-color: #8A9A5B;
+
+}
+
+p{
+    font-size: 20px;
+    color:#000;
+    background-color:#8A9A5B ;
+    font-weight:600;
+    text-align: justify;
+    text-align-last: center;
+    word-spacing: 10px;
+    line-height:40px;
+    letter-spacing: 2px;
+    
+}
+h1{
+    color:#000;
+    text-align: center;
+    word-spacing: 5px;
+    background-color: #967969E ;
+}
+a{
+    background-color:#454B1B;
+    color: #000;
+
+}
